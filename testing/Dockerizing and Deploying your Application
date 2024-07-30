@@ -6,18 +6,18 @@ https://docs.docker.com/desktop/install/windows-install/
 ⦁	Sign up for a docker account here:
 https://hub.docker.com/signup
 
-(Remember the username that your pick)
+(Remember the username that you pick)
 
-⦁	Open and watch the first video, there I show how to build the image.
+⦁	Open and watch the first video, there is shown how to build the image.
 
-Notice the command I used in the video:  docker build -t aarenasjs/musicbot .
+Notice the command used in the video:  docker build -t aarenasjs/musicbot .
 
-The aarenasjs part is my docker username, replace that with your own username.
+The aarenasjs part is the docker username, replace that with your own username.
 
 
-⦁	Open and watch the seconds video, there I show how to push your image to the docker hub (cloud), so you can then call that image from umbrella OS.
+⦁	Open and watch the second video, there I show how to push your image to the docker hub (cloud), so you can then call that image from umbrelOS.
 
-Use your username and password to login, like you see in the video, and then proceed in same way I showed you there to push the image to your docker account.
+Use your username and password to login, like you see in the video, and then proceed in same way I shown there to push the image to your docker account.
 
 
 If everything went correctly, you should see the image in your docker dashboard.
